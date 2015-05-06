@@ -8,7 +8,7 @@ body {
 #wrapper {
   max-width: 940px;
   margin: 0 auto;
-  padding 0 5%;
+  padding:; 0 5%;
 }
 
 a {
@@ -24,6 +24,18 @@ h3 {
 }
 
 
+/****************
+Jumbotron
+****************/
+.jumbotron {
+  position: relative;
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url('http://i61.tinypic.com/316vx8j.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 /****************
 Heading
 ****************/
@@ -45,7 +57,7 @@ h1 {
   font-family: 'Changa One', sans-serif;
   margin: 15px 0;
   font-size: 1.75em;
-  font-weight: normal
+  font-weight: normal;
   line-height: 0.8em;
 }
 
@@ -136,7 +148,7 @@ Page: ABOUT
   border-radius: 20px;
 }
 
-
+#wrapper
 
 /****************
 Page: Contact
@@ -182,16 +194,16 @@ body {
   color: #999;
 }
 
-/* green header */
+/* orangish header */
 
 header {
-  background: #6ab47b;
-  border-color: #599a68;
+  background-color: #8b3a3a;
+  border-color: #5C2609;
 }
 
 /* nav background on mobile devices */
 nav {
-  background:  #599a68;
+  background:  #945736;
 }
 
 
@@ -213,7 +225,7 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #673F32;
 }
 
 
