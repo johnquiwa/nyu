@@ -1,6 +1,1 @@
-# nyu1
-# nyu
-# nyu
-# nyu
-# nyu
-# nyu
+# Learning how to make a website
