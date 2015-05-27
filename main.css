@@ -137,6 +137,10 @@ Page Portfolio
   color: #bdc3c7;
 }
 
+#gallery img {
+  border-radius: 25px;
+}
+
 /****************
 Page: ABOUT
 ****************/
@@ -145,7 +149,7 @@ Page: ABOUT
   display: block;
   max-width: 150px;
   margin: 0 auto 30px;
-  border-radius: 20px;
+  border-radius: 25px;
 }
 
 #wrapper
@@ -199,6 +203,7 @@ body {
 header {
   background-color: #8b3a3a;
   border-color: #5C2609;
+  background: linear-gradient(to top, #8b3a3a, #996666);
 }
 
 /* nav background on mobile devices */
