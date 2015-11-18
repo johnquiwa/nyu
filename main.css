@@ -233,4 +233,13 @@ nav a.selected, nav a:hover {
   color: #673F32;
 }
 
+button {
+    height:20px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+
 
